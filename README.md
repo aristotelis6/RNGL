@@ -2,4 +2,4 @@
 Rsttls New Graphics Library
 
 
-Aiming to create a graphics library
+Aiming to create a 3D graphics library for XinOS
